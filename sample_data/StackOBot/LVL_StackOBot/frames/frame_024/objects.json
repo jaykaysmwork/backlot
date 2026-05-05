@@ -1,0 +1,2806 @@
+{
+  "frame_index": 24,
+  "actor_count": 100,
+  "actors": [
+    {
+      "name": "BP_Portal_C_UAID_F4A475FF15A3C17202_2025280848",
+      "class": "BP_Portal_C",
+      "world_position": {
+        "x": 5569.8,
+        "y": -326.65,
+        "z": 276.97
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5569.8,
+          "y": -326.65,
+          "z": 1772.77
+        },
+        "extent": {
+          "x": 1537.06,
+          "y": 1537.06,
+          "z": 1496.99
+        }
+      },
+      "bbox_2d": {
+        "x": 575.04,
+        "y": 654.24,
+        "width": 953.08,
+        "height": 425.76,
+        "min_depth_cm": 3111.07
+      }
+    },
+    {
+      "name": "BP_SpawnPad_C_UAID_025041000001D36E02_1373475793",
+      "class": "BP_SpawnPad_C",
+      "world_position": {
+        "x": 5883.21,
+        "y": -1501.62,
+        "z": 333.53
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5883.21,
+          "y": -1501.62,
+          "z": 242.29
+        },
+        "extent": {
+          "x": 1083.35,
+          "y": 1083.35,
+          "z": 1000.0
+        }
+      },
+      "bbox_2d": {
+        "x": 947.23,
+        "y": 734.0,
+        "width": 433.57,
+        "height": 346.0,
+        "min_depth_cm": 5609.93
+      }
+    },
+    {
+      "name": "BP_MovingPlatform_C_UAID_F4A475FF15A3BE7D02_1920148241",
+      "class": "BP_MovingPlatform_C",
+      "world_position": {
+        "x": 7349.38,
+        "y": 384.89,
+        "z": 383.72
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 9715.18,
+          "y": 308.53,
+          "z": 936.78
+        },
+        "extent": {
+          "x": 3092.14,
+          "y": 2139.6,
+          "z": 743.58
+        }
+      },
+      "bbox_2d": {
+        "x": 973.5,
+        "y": 954.09,
+        "width": 946.5,
+        "height": 125.91,
+        "min_depth_cm": 2508.85
+      }
+    },
+    {
+      "name": "BP_SpawnPad_C_UAID_025041000001D36E02_1373478794",
+      "class": "BP_SpawnPad_C",
+      "world_position": {
+        "x": 3107.32,
+        "y": 1777.03,
+        "z": 1231.83
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 3107.32,
+          "y": 1777.03,
+          "z": 1140.59
+        },
+        "extent": {
+          "x": 1408.83,
+          "y": 1408.83,
+          "z": 1000.0
+        }
+      },
+      "bbox_2d": {
+        "x": 2.8,
+        "y": 847.62,
+        "width": 856.17,
+        "height": 232.38,
+        "min_depth_cm": 3870.33
+      }
+    },
+    {
+      "name": "BP_Button_C_UAID_025041000001D36E02_1373488797",
+      "class": "BP_PressurePlate_C",
+      "world_position": {
+        "x": 5547.16,
+        "y": -6349.99,
+        "z": 2018.69
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5547.16,
+          "y": -6349.99,
+          "z": 2018.69
+        },
+        "extent": {
+          "x": 240.48,
+          "y": 240.48,
+          "z": 97.9
+        }
+      },
+      "bbox_2d": {
+        "x": 1345.57,
+        "y": 324.81,
+        "width": 84.08,
+        "height": 77.26,
+        "min_depth_cm": 7645.83
+      }
+    },
+    {
+      "name": "BP_Lamp_C_UAID_0250410000012F6F02_1341289986",
+      "class": "BP_Lamp_C",
+      "world_position": {
+        "x": 5569.8,
+        "y": -775.62,
+        "z": 254.47
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5572.08,
+          "y": -920.41,
+          "z": 489.31
+        },
+        "extent": {
+          "x": 176.27,
+          "y": 271.83,
+          "z": 310.5
+        }
+      },
+      "bbox_2d": {
+        "x": 1035.15,
+        "y": 962.18,
+        "width": 87.71,
+        "height": 107.99,
+        "min_depth_cm": 6398.65
+      }
+    },
+    {
+      "name": "BP_Lamp_C_UAID_0250410000012F6F02_1340922985",
+      "class": "BP_Lamp_C",
+      "world_position": {
+        "x": 5119.49,
+        "y": -326.65,
+        "z": 259.47
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4976.67,
+          "y": -326.65,
+          "z": 494.88
+        },
+        "extent": {
+          "x": 271.83,
+          "y": 176.27,
+          "z": 311.07
+        }
+      },
+      "bbox_2d": {
+        "x": 915.64,
+        "y": 1002.31,
+        "width": 96.34,
+        "height": 77.69,
+        "min_depth_cm": 6300.52
+      }
+    },
+    {
+      "name": "BP_SpawnPad_C_UAID_025041000001D36E02_1373470792",
+      "class": "BP_SpawnPad_C",
+      "world_position": {
+        "x": 9987.88,
+        "y": -14843.17,
+        "z": 1223.84
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 9987.88,
+          "y": -14843.17,
+          "z": 1132.59
+        },
+        "extent": {
+          "x": 1392.73,
+          "y": 1392.73,
+          "z": 1000.0
+        }
+      },
+      "bbox_2d": {
+        "x": 1743.64,
+        "y": 0.0,
+        "width": 176.36,
+        "height": 254.94,
+        "min_depth_cm": 9445.01
+      }
+    },
+    {
+      "name": "BP_MovingPlatform_C_UAID_F4A475FF15A3487E02_1665255278",
+      "class": "BP_MovingPlatform_C",
+      "world_position": {
+        "x": -2089.54,
+        "y": -691.93,
+        "z": 136.97
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -2089.54,
+          "y": -691.93,
+          "z": 1309.24
+        },
+        "extent": {
+          "x": 546.56,
+          "y": 546.56,
+          "z": 1345.01
+        }
+      },
+      "bbox_2d": {
+        "x": 1.95,
+        "y": 344.34,
+        "width": 418.32,
+        "height": 326.15,
+        "min_depth_cm": 6408.59
+      }
+    },
+    {
+      "name": "BP_PressurePlate_C_UAID_F4A475FF15A3E37F02_1725428577",
+      "class": "BP_PressurePlate_C",
+      "world_position": {
+        "x": 4935.32,
+        "y": -8115.21,
+        "z": 447.97
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4935.32,
+          "y": -8115.21,
+          "z": 447.97
+        },
+        "extent": {
+          "x": 120.24,
+          "y": 120.24,
+          "z": 48.95
+        }
+      },
+      "bbox_2d": {
+        "x": 1308.08,
+        "y": 313.35,
+        "width": 32.37,
+        "height": 29.69,
+        "min_depth_cm": 10053.89
+      }
+    },
+    {
+      "name": "BP_MovingPlatform_C_UAID_F4A475FF15A3E37F02_1725424576",
+      "class": "BP_MovingPlatform_C",
+      "world_position": {
+        "x": 5676.91,
+        "y": -7898.68,
+        "z": 496.67
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5676.63,
+          "y": -7898.68,
+          "z": 815.4
+        },
+        "extent": {
+          "x": 546.56,
+          "y": 546.56,
+          "z": 488.46
+        }
+      },
+      "bbox_2d": {
+        "x": 1314.1,
+        "y": 253.86,
+        "width": 179.05,
+        "height": 180.29,
+        "min_depth_cm": 8782.5
+      }
+    },
+    {
+      "name": "BP_MovingPlatform_C_UAID_F4A475FF15A3487E02_1879373292",
+      "class": "BP_MovingPlatform_C",
+      "world_position": {
+        "x": 3441.29,
+        "y": -2441.4,
+        "z": 1650.65
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 3706.61,
+          "y": -3739.8,
+          "z": 1542.29
+        },
+        "extent": {
+          "x": 1189.16,
+          "y": 1988.05,
+          "z": 298.87
+        }
+      },
+      "bbox_2d": {
+        "x": 762.3,
+        "y": 292.65,
+        "width": 517.0,
+        "height": 547.66,
+        "min_depth_cm": 6197.52
+      }
+    },
+    {
+      "name": "BP_PressurePlate_C_UAID_F4A475FF15A3487E02_1665258279",
+      "class": "BP_PressurePlate_C",
+      "world_position": {
+        "x": -1714.49,
+        "y": -42.86,
+        "z": 85.71
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -1714.49,
+          "y": -42.86,
+          "z": 85.71
+        },
+        "extent": {
+          "x": 120.24,
+          "y": 120.24,
+          "z": 48.95
+        }
+      },
+      "bbox_2d": {
+        "x": 277.48,
+        "y": 646.6,
+        "width": 46.44,
+        "height": 38.22,
+        "min_depth_cm": 8498.35
+      }
+    },
+    {
+      "name": "BP_MovingPlatform_C_UAID_F4A475FF15A3487E02_1879369291",
+      "class": "BP_MovingPlatform_C",
+      "world_position": {
+        "x": 2777.77,
+        "y": -565.4,
+        "z": 1639.99
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 2777.77,
+          "y": -379.13,
+          "z": 882.08
+        },
+        "extent": {
+          "x": 700.53,
+          "y": 886.8,
+          "z": 948.42
+        }
+      },
+      "bbox_2d": {
+        "x": 489.33,
+        "y": 677.24,
+        "width": 373.65,
+        "height": 374.82,
+        "min_depth_cm": 5572.38
+      }
+    },
+    {
+      "name": "BP_Balance_C_UAID_F4A475FF15A30F7E02_1436070192",
+      "class": "BP_Balance_C",
+      "world_position": {
+        "x": 4.95,
+        "y": -1308.2,
+        "z": 1178.68
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4.61,
+          "y": -1308.41,
+          "z": -1001.73
+        },
+        "extent": {
+          "x": 529.93,
+          "y": 475.01,
+          "z": 2274.28
+        }
+      },
+      "bbox_2d": {
+        "x": 395.58,
+        "y": 508.54,
+        "width": 310.22,
+        "height": 303.12,
+        "min_depth_cm": 7380.92
+      }
+    },
+    {
+      "name": "BP_Balance_C_UAID_F4A475FF15A30F7E02_1436067191",
+      "class": "BP_Balance_C",
+      "world_position": {
+        "x": -256.46,
+        "y": -1008.95,
+        "z": 1178.68
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -256.8,
+          "y": -1009.16,
+          "z": -1001.73
+        },
+        "extent": {
+          "x": 529.93,
+          "y": 475.01,
+          "z": 2274.28
+        }
+      },
+      "bbox_2d": {
+        "x": 343.14,
+        "y": 521.72,
+        "width": 330.3,
+        "height": 301.08,
+        "min_depth_cm": 7315.4
+      }
+    },
+    {
+      "name": "BP_Balance_C_UAID_F4A475FF15A30F7E02_1923631275",
+      "class": "BP_Balance_C",
+      "world_position": {
+        "x": -3468.61,
+        "y": -1507.23,
+        "z": 883.46
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -3468.23,
+          "y": -1507.11,
+          "z": -1296.95
+        },
+        "extent": {
+          "x": 605.61,
+          "y": 351.43,
+          "z": 2274.28
+        }
+      },
+      "bbox_2d": {
+        "x": 163.26,
+        "y": 364.06,
+        "width": 347.89,
+        "height": 302.08,
+        "min_depth_cm": 8630.03
+      }
+    },
+    {
+      "name": "BP_Balance_C_UAID_F4A475FF15A30F7E02_1923628274",
+      "class": "BP_Balance_C",
+      "world_position": {
+        "x": -3820.48,
+        "y": -423.82,
+        "z": 883.46
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -3820.48,
+          "y": -423.45,
+          "z": -1296.95
+        },
+        "extent": {
+          "x": 231.19,
+          "y": 642.91,
+          "z": 2274.28
+        }
+      },
+      "bbox_2d": {
+        "x": 28.45,
+        "y": 422.17,
+        "width": 399.44,
+        "height": 305.14,
+        "min_depth_cm": 8209.8
+      }
+    },
+    {
+      "name": "BP_Balance_C_UAID_F4A475FF15A30F7E02_1436072193",
+      "class": "BP_Balance_C",
+      "world_position": {
+        "x": 263.72,
+        "y": -1604.44,
+        "z": 1178.68
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 263.38,
+          "y": -1604.66,
+          "z": -1001.73
+        },
+        "extent": {
+          "x": 529.93,
+          "y": 475.01,
+          "z": 2274.28
+        }
+      },
+      "bbox_2d": {
+        "x": 446.61,
+        "y": 495.7,
+        "width": 290.87,
+        "height": 305.05,
+        "min_depth_cm": 7445.78
+      }
+    },
+    {
+      "name": "BP_StackyPlatform_C_UAID_F4A475FF15A3CE7F02_1587296865",
+      "class": "BP_StackyPlatform_C",
+      "world_position": {
+        "x": 3304.71,
+        "y": -180.24,
+        "z": 43.9
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 3304.71,
+          "y": -180.24,
+          "z": -19.13
+        },
+        "extent": {
+          "x": 250.0,
+          "y": 250.0,
+          "z": 62.5
+        }
+      },
+      "bbox_2d": {
+        "x": 721.89,
+        "y": 905.52,
+        "width": 92.33,
+        "height": 96.35,
+        "min_depth_cm": 7287.5
+      }
+    },
+    {
+      "name": "StaticMeshActor_UAID_F4A475FF15A30F7E02_1436076196",
+      "class": "BP_Hazard_Conduit_C",
+      "world_position": {
+        "x": 1005.49,
+        "y": -2317.66,
+        "z": 1230.58
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 1161.59,
+          "y": -2423.82,
+          "z": 1215.09
+        },
+        "extent": {
+          "x": 175.65,
+          "y": 143.14,
+          "z": 93.29
+        }
+      },
+      "bbox_2d": {
+        "x": 659.32,
+        "y": 513.5,
+        "width": 60.58,
+        "height": 55.34,
+        "min_depth_cm": 7782.75
+      }
+    },
+    {
+      "name": "BP_GameCameraVolume_C_UAID_F4A475FF15A3FA7D02_1444484495",
+      "class": "BP_GameCamVolume_C",
+      "world_position": {
+        "x": 9443.97,
+        "y": -886.25,
+        "z": 1144.4
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 9443.97,
+          "y": -886.25,
+          "z": 1144.4
+        },
+        "extent": {
+          "x": 1253.75,
+          "y": 1253.75,
+          "z": 1253.75
+        }
+      },
+      "bbox_2d": {
+        "x": 1347.04,
+        "y": 1040.8,
+        "width": 572.96,
+        "height": 39.2,
+        "min_depth_cm": 3331.02
+      }
+    },
+    {
+      "name": "BP_Balance_C_UAID_F4A475FF15A3377E02_1528003231",
+      "class": "BP_Balance_C",
+      "world_position": {
+        "x": -1358.85,
+        "y": 1843.55,
+        "z": 433.62
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -1359.17,
+          "y": 1843.79,
+          "z": -1746.8
+        },
+        "extent": {
+          "x": 600.11,
+          "y": 363.94,
+          "z": 2274.28
+        }
+      },
+      "bbox_2d": {
+        "x": 8.56,
+        "y": 783.96,
+        "width": 452.81,
+        "height": 220.9,
+        "min_depth_cm": 7015.88
+      }
+    },
+    {
+      "name": "BP_Balance_C_UAID_F4A475FF15A3377E02_1528009233",
+      "class": "BP_Balance_C",
+      "world_position": {
+        "x": -1170.15,
+        "y": 2188.24,
+        "z": 433.62
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -1170.47,
+          "y": 2188.48,
+          "z": -1746.8
+        },
+        "extent": {
+          "x": 600.11,
+          "y": 363.94,
+          "z": 2274.28
+        }
+      },
+      "bbox_2d": {
+        "x": 0.0,
+        "y": 834.23,
+        "width": 451.76,
+        "height": 209.52,
+        "min_depth_cm": 6817.43
+      }
+    },
+    {
+      "name": "BP_DevCom_C_UAID_F4A475FF15A3288102_1447465774",
+      "class": "BP_DevCom_C",
+      "world_position": {
+        "x": -1788.0,
+        "y": 2966.0,
+        "z": 32.0
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -1788.0,
+          "y": 2966.0,
+          "z": 32.0
+        },
+        "extent": {
+          "x": 77.3,
+          "y": 77.3,
+          "z": 77.3
+        }
+      },
+      "bbox_2d": {
+        "x": 0.0,
+        "y": 963.76,
+        "width": 9.77,
+        "height": 32.29,
+        "min_depth_cm": 7249.54
+      }
+    },
+    {
+      "name": "BP_Fan_C_UAID_F4A475FF15A3377E02_1528010234",
+      "class": "BP_Fan_C",
+      "world_position": {
+        "x": -571.92,
+        "y": 1646.42,
+        "z": -266.02
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -571.92,
+          "y": 1646.42,
+          "z": 60.46
+        },
+        "extent": {
+          "x": 250.45,
+          "y": 250.45,
+          "z": 500.0
+        }
+      },
+      "bbox_2d": {
+        "x": 138.3,
+        "y": 846.41,
+        "width": 178.17,
+        "height": 113.33,
+        "min_depth_cm": 7013.78
+      }
+    },
+    {
+      "name": "BP_Balance_C_UAID_F4A475FF15A30F7E02_1923632276",
+      "class": "BP_Balance_C",
+      "world_position": {
+        "x": -4189.95,
+        "y": 1191.06,
+        "z": 708.74
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -4190.17,
+          "y": 1191.39,
+          "z": -1471.68
+        },
+        "extent": {
+          "x": 480.35,
+          "y": 525.34,
+          "z": 2274.28
+        }
+      },
+      "bbox_2d": {
+        "x": 0.0,
+        "y": 543.3,
+        "width": 326.01,
+        "height": 286.97,
+        "min_depth_cm": 7734.62
+      }
+    },
+    {
+      "name": "BP_BouncePad_C_UAID_F4A475FF15A3487E02_1665274285",
+      "class": "BP_BouncePad_C",
+      "world_position": {
+        "x": -1065.17,
+        "y": 1005.28,
+        "z": 85.18
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -1065.17,
+          "y": 1005.28,
+          "z": 102.83
+        },
+        "extent": {
+          "x": 161.73,
+          "y": 161.73,
+          "z": 136.36
+        }
+      },
+      "bbox_2d": {
+        "x": 213.0,
+        "y": 771.45,
+        "width": 79.27,
+        "height": 61.95,
+        "min_depth_cm": 7757.09
+      }
+    },
+    {
+      "name": "BP_Bridge_C_UAID_F4A475FF15A3487E02_1306650242",
+      "class": "BP_Bridge_C",
+      "world_position": {
+        "x": -2529.56,
+        "y": 1933.36,
+        "z": 2235.97
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -3217.31,
+          "y": 951.15,
+          "z": 2188.4
+        },
+        "extent": {
+          "x": 1033.02,
+          "y": 1260.65,
+          "z": 90.49
+        }
+      },
+      "bbox_2d": {
+        "x": 0.0,
+        "y": 377.48,
+        "width": 124.8,
+        "height": 417.63,
+        "min_depth_cm": 5860.45
+      }
+    },
+    {
+      "name": "BP_EnergyOrb_C_UAID_F4A475FF15A3487E02_1291591236",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": -3707.22,
+        "y": -21.33,
+        "z": 2234.33
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -3707.22,
+          "y": -21.33,
+          "z": 2234.33
+        },
+        "extent": {
+          "x": 200.81,
+          "y": 210.54,
+          "z": 163.86
+        }
+      },
+      "bbox_2d": {
+        "x": 0.0,
+        "y": 391.63,
+        "width": 7.96,
+        "height": 86.33,
+        "min_depth_cm": 6975.98
+      }
+    },
+    {
+      "name": "BP_PickupSpline_C_UAID_F4A475FF15A3487E02_1291598241",
+      "class": "BP_PickupSpline_C",
+      "world_position": {
+        "x": -3955.12,
+        "y": -450.71,
+        "z": 2293.78
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -3281.04,
+          "y": 716.82,
+          "z": 2286.41
+        },
+        "extent": {
+          "x": 674.07,
+          "y": 1167.53,
+          "z": 211.7
+        }
+      },
+      "bbox_2d": {
+        "x": 0.0,
+        "y": 361.15,
+        "width": 107.34,
+        "height": 359.67,
+        "min_depth_cm": 5920.92
+      }
+    },
+    {
+      "name": "BP_FloatingPlatform_C_UAID_F4A475FF15A30F7E02_1436081199",
+      "class": "BP_FloatingPlatform_C",
+      "world_position": {
+        "x": -3044.25,
+        "y": -689.58,
+        "z": 1987.28
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -3044.25,
+          "y": -689.58,
+          "z": 1934.43
+        },
+        "extent": {
+          "x": 344.73,
+          "y": 344.73,
+          "z": 52.4
+        }
+      },
+      "bbox_2d": {
+        "x": 39.74,
+        "y": 381.66,
+        "width": 142.53,
+        "height": 103.25,
+        "min_depth_cm": 7362.44
+      }
+    },
+    {
+      "name": "BP_FloatingPlatform_C_UAID_F4A475FF15A30F7E02_1436078197",
+      "class": "BP_FloatingPlatform_C",
+      "world_position": {
+        "x": -821.55,
+        "y": -339.9,
+        "z": 1602.82
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -821.55,
+          "y": -339.9,
+          "z": 1549.97
+        },
+        "extent": {
+          "x": 344.73,
+          "y": 344.73,
+          "z": 52.4
+        }
+      },
+      "bbox_2d": {
+        "x": 226.33,
+        "y": 555.06,
+        "width": 144.31,
+        "height": 118.23,
+        "min_depth_cm": 6982.84
+      }
+    },
+    {
+      "name": "BP_EnergyOrb_C_UAID_F4A475FF15A3487E02_1291588235",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": -3936.11,
+        "y": -417.79,
+        "z": 2386.27
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -3936.11,
+          "y": -417.79,
+          "z": 2386.27
+        },
+        "extent": {
+          "x": 208.44,
+          "y": 223.77,
+          "z": 179.14
+        }
+      },
+      "bbox_2d": {
+        "x": 0.0,
+        "y": 329.23,
+        "width": 24.2,
+        "height": 90.83,
+        "min_depth_cm": 7055.19
+      }
+    },
+    {
+      "name": "BP_FloatingPlatform_Small_C_UAID_F4A475FF15A32C8002_1573749409",
+      "class": "BP_FloatingPlatform_Small_C",
+      "world_position": {
+        "x": -2374.22,
+        "y": -157.06,
+        "z": 1782.78
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -2374.22,
+          "y": -157.06,
+          "z": 1729.94
+        },
+        "extent": {
+          "x": 200.0,
+          "y": 200.0,
+          "z": 52.4
+        }
+      },
+      "bbox_2d": {
+        "x": 82.17,
+        "y": 497.49,
+        "width": 89.19,
+        "height": 67.59,
+        "min_depth_cm": 7237.06
+      }
+    },
+    {
+      "name": "BP_EnergyOrb_C_UAID_F4A475FF15A3487E02_1665261280",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": -2094.09,
+        "y": -248.63,
+        "z": 231.75
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -2094.09,
+          "y": -248.63,
+          "z": 231.75
+        },
+        "extent": {
+          "x": 167.13,
+          "y": 202.71,
+          "z": 197.01
+        }
+      },
+      "bbox_2d": {
+        "x": 234.99,
+        "y": 586.06,
+        "width": 88.36,
+        "height": 70.69,
+        "min_depth_cm": 8382.11
+      }
+    },
+    {
+      "name": "BP_BugSpawner_C_UAID_F02F74551BF5DC7F02_1343761327",
+      "class": "BP_BugSpawner_C",
+      "world_position": {
+        "x": -2265.91,
+        "y": 26.96,
+        "z": 156.1
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -2265.91,
+          "y": 26.96,
+          "z": 156.1
+        },
+        "extent": {
+          "x": 66.45,
+          "y": 66.45,
+          "z": 52.58
+        }
+      },
+      "bbox_2d": {
+        "x": 232.75,
+        "y": 628.99,
+        "width": 29.58,
+        "height": 23.22,
+        "min_depth_cm": 8579.42
+      }
+    },
+    {
+      "name": "BP_EnergyOrb_C_UAID_F4A475FF15A3487E02_1665266282",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": -2174.9,
+        "y": 161.97,
+        "z": 168.41
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -2174.9,
+          "y": 161.97,
+          "z": 168.41
+        },
+        "extent": {
+          "x": 168.12,
+          "y": 172.93,
+          "z": 154.0
+        }
+      },
+      "bbox_2d": {
+        "x": 200.58,
+        "y": 625.56,
+        "width": 79.82,
+        "height": 62.14,
+        "min_depth_cm": 8327.03
+      }
+    },
+    {
+      "name": "BP_FloatingPlatform_Child_C_UAID_F4A475FF15A3027E02_1996753904",
+      "class": "BP_FloatingPlatform_Small_C",
+      "world_position": {
+        "x": 4550.7,
+        "y": -4155.65,
+        "z": 1370.86
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4550.7,
+          "y": -4155.65,
+          "z": 1318.01
+        },
+        "extent": {
+          "x": 200.0,
+          "y": 200.0,
+          "z": 52.4
+        }
+      },
+      "bbox_2d": {
+        "x": 1118.45,
+        "y": 521.99,
+        "width": 67.67,
+        "height": 64.94,
+        "min_depth_cm": 7606.18
+      }
+    },
+    {
+      "name": "BP_DevCom_C_UAID_F4A475FF15A3D87F02_1148587639",
+      "class": "BP_DevCom_C",
+      "world_position": {
+        "x": 5537.19,
+        "y": -6359.04,
+        "z": 2153.38
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5537.19,
+          "y": -6359.04,
+          "z": 2153.38
+        },
+        "extent": {
+          "x": 348.18,
+          "y": 348.18,
+          "z": 250.0
+        }
+      },
+      "bbox_2d": {
+        "x": 1327.22,
+        "y": 285.46,
+        "width": 133.97,
+        "height": 131.09,
+        "min_depth_cm": 7330.53
+      }
+    },
+    {
+      "name": "BP_DevCom_C_UAID_0250410000011A8002_1722049239",
+      "class": "BP_DevCom_C",
+      "world_position": {
+        "x": 936.97,
+        "y": -2308.85,
+        "z": 1430.91
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 938.85,
+          "y": -2309.53,
+          "z": 1430.91
+        },
+        "extent": {
+          "x": 320.43,
+          "y": 320.43,
+          "z": 250.0
+        }
+      },
+      "bbox_2d": {
+        "x": 585.77,
+        "y": 464.41,
+        "width": 129.69,
+        "height": 124.14,
+        "min_depth_cm": 7353.03
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3AF7D02_1093264548",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 7221.66,
+        "y": -6325.07,
+        "z": 2302.64
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 7221.66,
+          "y": -6325.07,
+          "z": 2302.64
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1586.04,
+        "y": 394.21,
+        "width": 66.77,
+        "height": 62.19,
+        "min_depth_cm": 7006.53
+      }
+    },
+    {
+      "name": "BP_PickupSpline_C_UAID_F4A475FF15A3AE7D02_2050772233",
+      "class": "BP_PickupSpline_C",
+      "world_position": {
+        "x": 7221.66,
+        "y": -6325.07,
+        "z": 2072.64
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 7221.89,
+          "y": -6325.41,
+          "z": 2583.47
+        },
+        "extent": {
+          "x": 0.22,
+          "y": 0.34,
+          "z": 280.83
+        }
+      },
+      "bbox_2d": {
+        "x": 1618.99,
+        "y": 376.65,
+        "width": 47.51,
+        "height": 48.78,
+        "min_depth_cm": 6734.78
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219581664",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 4012.02,
+        "y": -7355.16,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4012.02,
+          "y": -7355.16,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1196.4,
+        "y": 317.19,
+        "width": 40.56,
+        "height": 45.12,
+        "min_depth_cm": 9829.05
+      }
+    },
+    {
+      "name": "BP_PickupSpline_C_UAID_F4A475FF15A3C07D02_1150144597",
+      "class": "BP_PickupSpline_C",
+      "world_position": {
+        "x": 4677.35,
+        "y": -7763.94,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4252.27,
+          "y": -6809.09,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 425.09,
+          "y": 954.85,
+          "z": 0.0
+        }
+      },
+      "bbox_2d": {
+        "x": 1140.84,
+        "y": 308.16,
+        "width": 149.87,
+        "height": 160.51,
+        "min_depth_cm": 9217.23
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3AF7D02_1093269552",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 7221.98,
+        "y": -6325.55,
+        "z": 2702.64
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 7221.98,
+          "y": -6325.55,
+          "z": 2702.64
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1617.12,
+        "y": 358.52,
+        "width": 71.02,
+        "height": 65.55,
+        "min_depth_cm": 6661.44
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3AF7D02_1093270553",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 7222.06,
+        "y": -6325.67,
+        "z": 2802.64
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 7222.06,
+          "y": -6325.67,
+          "z": 2802.64
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1625.37,
+        "y": 349.03,
+        "width": 72.16,
+        "height": 66.45,
+        "min_depth_cm": 6575.17
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3AF7D02_1093268551",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 7221.9,
+        "y": -6325.43,
+        "z": 2602.64
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 7221.9,
+          "y": -6325.43,
+          "z": 2602.64
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1609.06,
+        "y": 367.77,
+        "width": 69.91,
+        "height": 64.68,
+        "min_depth_cm": 6747.72
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219593673",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 4473.43,
+        "y": -5895.6,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4473.43,
+          "y": -5895.6,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1182.16,
+        "y": 432.8,
+        "width": 43.61,
+        "height": 48.19,
+        "min_depth_cm": 9073.48
+      }
+    },
+    {
+      "name": "BP_FloatingPlatform_Small_C_UAID_F4A475FF15A3027E02_1996756906",
+      "class": "BP_FloatingPlatform_Small_C",
+      "world_position": {
+        "x": 5036.86,
+        "y": -2213.74,
+        "z": 780.39
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5036.86,
+          "y": -2213.74,
+          "z": 727.54
+        },
+        "extent": {
+          "x": 200.0,
+          "y": 200.0,
+          "z": 52.4
+        }
+      },
+      "bbox_2d": {
+        "x": 1057.32,
+        "y": 774.64,
+        "width": 71.82,
+        "height": 75.57,
+        "min_depth_cm": 7142.58
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219591672",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 4288.02,
+        "y": -5969.63,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4288.02,
+          "y": -5969.63,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1167.71,
+        "y": 419.84,
+        "width": 42.95,
+        "height": 47.85,
+        "min_depth_cm": 9152.48
+      }
+    },
+    {
+      "name": "BPP_PLA_Platform_Large_01_C_UAID_F4A475FF15A30F7E02_1436073194",
+      "class": "BPP_PLA_Platform_Large_01_C",
+      "world_position": {
+        "x": 650.32,
+        "y": -2094.43,
+        "z": 1179.72
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 650.32,
+          "y": -2094.43,
+          "z": 1249.97
+        },
+        "extent": {
+          "x": 456.12,
+          "y": 456.12,
+          "z": 70.24
+        }
+      },
+      "bbox_2d": {
+        "x": 531.52,
+        "y": 474.96,
+        "width": 163.61,
+        "height": 139.06,
+        "min_depth_cm": 7548.96
+      }
+    },
+    {
+      "name": "BP_FloatingPlatform_C_UAID_F4A475FF15A3027E02_1996750903",
+      "class": "BP_FloatingPlatform_C",
+      "world_position": {
+        "x": 5417.8,
+        "y": -4685.65,
+        "z": 1637.09
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5417.8,
+          "y": -4685.65,
+          "z": 1584.25
+        },
+        "extent": {
+          "x": 344.73,
+          "y": 344.73,
+          "z": 52.4
+        }
+      },
+      "bbox_2d": {
+        "x": 1227.52,
+        "y": 480.95,
+        "width": 117.6,
+        "height": 109.42,
+        "min_depth_cm": 7291.18
+      }
+    },
+    {
+      "name": "BP_EnergyOrb_C_UAID_F4A475FF15A3027E02_1996759908",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 5880.03,
+        "y": -4142.73,
+        "z": 1741.87
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5880.03,
+          "y": -4142.73,
+          "z": 1741.87
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1297.03,
+        "y": 573.87,
+        "width": 60.39,
+        "height": 62.18,
+        "min_depth_cm": 6870.91
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3AF7D02_1093266549",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 7221.74,
+        "y": -6325.19,
+        "z": 2402.64
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 7221.74,
+          "y": -6325.19,
+          "z": 2402.64
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1593.53,
+        "y": 385.61,
+        "width": 67.78,
+        "height": 63.0,
+        "min_depth_cm": 6920.26
+      }
+    },
+    {
+      "name": "BP_StackyPlatform_C_UAID_F4A475FF15A3CE7F02_1587294864",
+      "class": "BP_StackyPlatform_C",
+      "world_position": {
+        "x": 3263.43,
+        "y": -161.48,
+        "z": 188.67
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 3263.43,
+          "y": -161.48,
+          "z": 125.64
+        },
+        "extent": {
+          "x": 250.0,
+          "y": 250.0,
+          "z": 62.5
+        }
+      },
+      "bbox_2d": {
+        "x": 711.93,
+        "y": 901.68,
+        "width": 94.11,
+        "height": 97.85,
+        "min_depth_cm": 7164.7
+      }
+    },
+    {
+      "name": "BPP_PLA_Platform_Small_03_C_UAID_F4A475FF15A3487E02_1910215293",
+      "class": "BPP_PLA_Platform_Small_03_C",
+      "world_position": {
+        "x": 1655.0,
+        "y": -1910.0,
+        "z": 1385.0
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 1655.0,
+          "y": -1910.0,
+          "z": 1433.03
+        },
+        "extent": {
+          "x": 272.65,
+          "y": 272.65,
+          "z": 48.03
+        }
+      },
+      "bbox_2d": {
+        "x": 640.75,
+        "y": 558.99,
+        "width": 102.79,
+        "height": 91.78,
+        "min_depth_cm": 7203.5
+      }
+    },
+    {
+      "name": "BP_EnergyOrb_C_UAID_F4A475FF15A3027E02_1996763910",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 5220.03,
+        "y": -3907.73,
+        "z": 1882.4
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5220.03,
+          "y": -3907.73,
+          "z": 1882.4
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1206.82,
+        "y": 549.72,
+        "width": 58.49,
+        "height": 62.86,
+        "min_depth_cm": 6812.36
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219583665",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 3907.89,
+        "y": -7184.84,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 3907.89,
+          "y": -7184.84,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1180.88,
+        "y": 324.08,
+        "width": 40.47,
+        "height": 45.31,
+        "min_depth_cm": 9780.55
+      }
+    },
+    {
+      "name": "BP_FloatingPlatform_C_UAID_F4A475FF15A3027E02_1996754905",
+      "class": "BP_FloatingPlatform_C",
+      "world_position": {
+        "x": 4921.16,
+        "y": -3155.65,
+        "z": 1214.1
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4921.16,
+          "y": -3155.65,
+          "z": 1161.26
+        },
+        "extent": {
+          "x": 344.73,
+          "y": 344.73,
+          "z": 52.4
+        }
+      },
+      "bbox_2d": {
+        "x": 1078.96,
+        "y": 624.62,
+        "width": 121.25,
+        "height": 119.85,
+        "min_depth_cm": 7110.37
+      }
+    },
+    {
+      "name": "BP_BouncePad_C_UAID_F4A475FF15A30F7E02_1436075195",
+      "class": "BP_BouncePad_C",
+      "world_position": {
+        "x": 650.32,
+        "y": -2094.43,
+        "z": 1320.75
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 650.32,
+          "y": -2094.43,
+          "z": 1338.4
+        },
+        "extent": {
+          "x": 187.35,
+          "y": 187.35,
+          "z": 136.36
+        }
+      },
+      "bbox_2d": {
+        "x": 572.66,
+        "y": 501.45,
+        "width": 76.16,
+        "height": 70.83,
+        "min_depth_cm": 7600.86
+      }
+    },
+    {
+      "name": "BP_EnergyOrb_C_UAID_F4A475FF15A3027E02_1996767913",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 5433.12,
+        "y": -3160.89,
+        "z": 1661.87
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5433.12,
+          "y": -3160.89,
+          "z": 1661.87
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1187.78,
+        "y": 657.41,
+        "width": 59.62,
+        "height": 63.85,
+        "min_depth_cm": 6621.84
+      }
+    },
+    {
+      "name": "BP_DevCom_C_UAID_0250410000019A7D02_1232865606",
+      "class": "BP_DevCom_C",
+      "world_position": {
+        "x": 5863.21,
+        "y": -6562.91,
+        "z": 2078.38
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5863.21,
+          "y": -6562.91,
+          "z": 2078.38
+        },
+        "extent": {
+          "x": 348.18,
+          "y": 348.18,
+          "z": 250.0
+        }
+      },
+      "bbox_2d": {
+        "x": 1369.96,
+        "y": 290.85,
+        "width": 134.39,
+        "height": 129.92,
+        "min_depth_cm": 7402.75
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219580663",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 4147.12,
+        "y": -7502.47,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4147.12,
+          "y": -7502.47,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1213.68,
+        "y": 312.86,
+        "width": 40.76,
+        "height": 45.0,
+        "min_depth_cm": 9859.69
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219585667",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 3827.18,
+        "y": -6796.97,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 3827.18,
+          "y": -6796.97,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1158.81,
+        "y": 345.8,
+        "width": 40.67,
+        "height": 45.89,
+        "min_depth_cm": 9630.82
+      }
+    },
+    {
+      "name": "BP_BouncePad_C_UAID_F4A475FF15A3487E02_1910218294",
+      "class": "BP_BouncePad_C",
+      "world_position": {
+        "x": 1661.7,
+        "y": -1901.28,
+        "z": 1481.59
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 1661.7,
+          "y": -1901.28,
+          "z": 1499.25
+        },
+        "extent": {
+          "x": 198.07,
+          "y": 198.07,
+          "z": 136.36
+        }
+      },
+      "bbox_2d": {
+        "x": 648.96,
+        "y": 561.97,
+        "width": 81.77,
+        "height": 79.04,
+        "min_depth_cm": 7116.03
+      }
+    },
+    {
+      "name": "BP_DevCom_C_UAID_025041000001997D02_2058686429",
+      "class": "BP_DevCom_C",
+      "world_position": {
+        "x": 3093.57,
+        "y": -1459.67,
+        "z": 1722.75
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 3093.57,
+          "y": -1459.67,
+          "z": 1722.75
+        },
+        "extent": {
+          "x": 348.18,
+          "y": 348.18,
+          "z": 250.0
+        }
+      },
+      "bbox_2d": {
+        "x": 729.99,
+        "y": 650.75,
+        "width": 150.85,
+        "height": 156.86,
+        "min_depth_cm": 6168.46
+      }
+    },
+    {
+      "name": "BP_DevCom_C_UAID_F4A475FF15A3177C02_1133180487",
+      "class": "BP_DevCom_C",
+      "world_position": {
+        "x": 4919.36,
+        "y": -3160.17,
+        "z": 1248.18
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4919.36,
+          "y": -3160.17,
+          "z": 1248.18
+        },
+        "extent": {
+          "x": 83.74,
+          "y": 83.74,
+          "z": 77.3
+        }
+      },
+      "bbox_2d": {
+        "x": 1125.47,
+        "y": 660.19,
+        "width": 32.51,
+        "height": 35.77,
+        "min_depth_cm": 7196.22
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219590671",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 4122.0,
+        "y": -6081.35,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4122.0,
+          "y": -6081.35,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1156.84,
+        "y": 405.23,
+        "width": 42.31,
+        "height": 47.47,
+        "min_depth_cm": 9243.14
+      }
+    },
+    {
+      "name": "BP_EnergyOrb_C_UAID_F4A475FF15A3027E02_1996764911",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 4763.12,
+        "y": -3355.89,
+        "z": 1789.04
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4763.12,
+          "y": -3355.89,
+          "z": 1789.04
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1117.38,
+        "y": 586.28,
+        "width": 56.47,
+        "height": 63.03,
+        "min_depth_cm": 6765.8
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3487E02_1743305289",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 3140.0,
+        "y": -1000.0,
+        "z": 2280.0
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 3140.0,
+          "y": -1000.0,
+          "z": 2280.0
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 724.36,
+        "y": 727.74,
+        "width": 70.4,
+        "height": 72.99,
+        "min_depth_cm": 5717.1
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219584666",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 3844.38,
+        "y": -6995.85,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 3844.38,
+          "y": -6995.85,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1168.07,
+        "y": 333.7,
+        "width": 40.5,
+        "height": 45.56,
+        "min_depth_cm": 9713.67
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3487E02_1743308290",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 2830.0,
+        "y": -1070.0,
+        "z": 2280.0
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 2830.0,
+          "y": -1070.0,
+          "z": 2280.0
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 690.56,
+        "y": 694.76,
+        "width": 70.74,
+        "height": 71.95,
+        "min_depth_cm": 5825.63
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3AF7D02_1093267550",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 7221.82,
+        "y": -6325.31,
+        "z": 2502.64
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 7221.82,
+          "y": -6325.31,
+          "z": 2502.64
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1601.2,
+        "y": 376.8,
+        "width": 68.83,
+        "height": 63.83,
+        "min_depth_cm": 6833.99
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219588669",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 3895.84,
+        "y": -6405.19,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 3895.84,
+          "y": -6405.19,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1149.35,
+        "y": 374.17,
+        "width": 41.29,
+        "height": 46.64,
+        "min_depth_cm": 9441.86
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219589670",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 3988.85,
+        "y": -6229.19,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 3988.85,
+          "y": -6229.19,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1150.65,
+        "y": 389.71,
+        "width": 41.75,
+        "height": 47.06,
+        "min_depth_cm": 9341.37
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219586668",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 3843.35,
+        "y": -6597.94,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 3843.35,
+          "y": -6597.94,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1152.38,
+        "y": 359.37,
+        "width": 40.93,
+        "height": 46.25,
+        "min_depth_cm": 9539.53
+      }
+    },
+    {
+      "name": "BP_DevCom_C_UAID_F4A475FF15A3248102_1501348061",
+      "class": "BP_DevCom_C",
+      "world_position": {
+        "x": 5135.0,
+        "y": -3873.0,
+        "z": 839.0
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5135.0,
+          "y": -3873.0,
+          "z": 839.0
+        },
+        "extent": {
+          "x": 102.72,
+          "y": 102.72,
+          "z": 77.3
+        }
+      },
+      "bbox_2d": {
+        "x": 1174.89,
+        "y": 619.65,
+        "width": 36.73,
+        "height": 38.84,
+        "min_depth_cm": 7794.55
+      }
+    },
+    {
+      "name": "BP_FloatingPlatform_Small_C_UAID_F4A475FF15A3027E02_1996758907",
+      "class": "BP_FloatingPlatform_Small_C",
+      "world_position": {
+        "x": 4082.74,
+        "y": -2779.66,
+        "z": 1009.64
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4082.74,
+          "y": -2779.66,
+          "z": 956.79
+        },
+        "extent": {
+          "x": 200.0,
+          "y": 200.0,
+          "z": 52.4
+        }
+      },
+      "bbox_2d": {
+        "x": 984.79,
+        "y": 647.64,
+        "width": 68.94,
+        "height": 69.53,
+        "min_depth_cm": 7432.35
+      }
+    },
+    {
+      "name": "BP_FloatingPlatform_C_UAID_F4A475FF15A30F7E02_1436079198",
+      "class": "BP_FloatingPlatform_C",
+      "world_position": {
+        "x": -1641.35,
+        "y": 1158.3,
+        "z": 2088.24
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -1641.35,
+          "y": 1158.3,
+          "z": 2035.39
+        },
+        "extent": {
+          "x": 344.73,
+          "y": 344.73,
+          "z": 52.4
+        }
+      },
+      "bbox_2d": {
+        "x": 0.0,
+        "y": 633.54,
+        "width": 76.99,
+        "height": 139.67,
+        "min_depth_cm": 6113.12
+      }
+    },
+    {
+      "name": "BP_EnergyOrb_C_UAID_F4A475FF15A3487E02_1665277286",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": -1773.8,
+        "y": 974.49,
+        "z": 197.48
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -1773.8,
+          "y": 974.49,
+          "z": 197.48
+        },
+        "extent": {
+          "x": 227.5,
+          "y": 226.73,
+          "z": 185.05
+        }
+      },
+      "bbox_2d": {
+        "x": 134.49,
+        "y": 711.71,
+        "width": 111.93,
+        "height": 85.41,
+        "min_depth_cm": 7779.82
+      }
+    },
+    {
+      "name": "BP_EnergyOrb_C_UAID_F4A475FF15A3487E02_1665278287",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": -1489.04,
+        "y": 1173.9,
+        "z": 508.94
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -1489.04,
+          "y": 1173.9,
+          "z": 508.94
+        },
+        "extent": {
+          "x": 237.39,
+          "y": 219.63,
+          "z": 195.86
+        }
+      },
+      "bbox_2d": {
+        "x": 105.15,
+        "y": 735.3,
+        "width": 121.51,
+        "height": 90.63,
+        "min_depth_cm": 7343.4
+      }
+    },
+    {
+      "name": "BP_EnergyOrb_C_UAID_F4A475FF15A3487E02_1665268283",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": -2053.57,
+        "y": 642.67,
+        "z": 160.36
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -2053.57,
+          "y": 642.67,
+          "z": 160.36
+        },
+        "extent": {
+          "x": 204.49,
+          "y": 199.39,
+          "z": 158.3
+        }
+      },
+      "bbox_2d": {
+        "x": 157.28,
+        "y": 671.32,
+        "width": 94.9,
+        "height": 73.03,
+        "min_depth_cm": 8068.39
+      }
+    },
+    {
+      "name": "BP_EnergyOrb_C_UAID_F4A475FF15A3487E02_1665280288",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": -1131.38,
+        "y": 1497.61,
+        "z": 784.96
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -1131.38,
+          "y": 1497.61,
+          "z": 784.96
+        },
+        "extent": {
+          "x": 189.37,
+          "y": 190.74,
+          "z": 141.0
+        }
+      },
+      "bbox_2d": {
+        "x": 81.93,
+        "y": 790.89,
+        "width": 105.29,
+        "height": 79.53,
+        "min_depth_cm": 6945.56
+      }
+    },
+    {
+      "name": "BP_FloatingPlatform_Small_C_UAID_F4A475FF15A32C8002_1573744408",
+      "class": "BP_FloatingPlatform_Small_C",
+      "world_position": {
+        "x": -1108.34,
+        "y": 342.48,
+        "z": 1819.25
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -1108.34,
+          "y": 342.48,
+          "z": 1766.4
+        },
+        "extent": {
+          "x": 200.0,
+          "y": 200.0,
+          "z": 52.4
+        }
+      },
+      "bbox_2d": {
+        "x": 129.03,
+        "y": 618.25,
+        "width": 95.39,
+        "height": 76.58,
+        "min_depth_cm": 6668.77
+      }
+    },
+    {
+      "name": "BP_BugSpawner_C_UAID_F02F74551BF5DC7F02_1387532328",
+      "class": "BP_BugSpawner_C",
+      "world_position": {
+        "x": -1711.99,
+        "y": 616.65,
+        "z": 156.46
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -1711.99,
+          "y": 616.65,
+          "z": 156.46
+        },
+        "extent": {
+          "x": 61.24,
+          "y": 61.24,
+          "z": 52.58
+        }
+      },
+      "bbox_2d": {
+        "x": 220.35,
+        "y": 712.85,
+        "width": 29.36,
+        "height": 22.76,
+        "min_depth_cm": 8185.15
+      }
+    },
+    {
+      "name": "BP_DevCom_C_UAID_F4A475FF15A3177C02_1562237489",
+      "class": "BP_DevCom_C",
+      "world_position": {
+        "x": 6984.23,
+        "y": -10484.55,
+        "z": -280.06
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 6984.23,
+          "y": -10484.55,
+          "z": -280.06
+        },
+        "extent": {
+          "x": 99.07,
+          "y": 99.07,
+          "z": 77.3
+        }
+      },
+      "bbox_2d": {
+        "x": 1523.75,
+        "y": 291.84,
+        "width": 27.82,
+        "height": 26.32,
+        "min_depth_cm": 11196.28
+      }
+    },
+    {
+      "name": "BP_PickupSpline_C_UAID_F4A475FF15A3A77D02_1329783911",
+      "class": "BP_PickupSpline_C",
+      "world_position": {
+        "x": 8577.5,
+        "y": -12806.05,
+        "z": 1202.99
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 9829.25,
+          "y": -14336.18,
+          "z": 1205.4
+        },
+        "extent": {
+          "x": 2332.33,
+          "y": 2256.1,
+          "z": 2.41
+        }
+      },
+      "bbox_2d": {
+        "x": 1688.07,
+        "y": 0.0,
+        "width": 231.93,
+        "height": 286.4,
+        "min_depth_cm": 9446.4
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3F77D02_1093034198",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 7927.51,
+        "y": -14176.18,
+        "z": 1202.99
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 7927.51,
+          "y": -14176.18,
+          "z": 1202.99
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1733.32,
+        "y": 25.55,
+        "width": 44.37,
+        "height": 40.86,
+        "min_depth_cm": 11219.4
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3F77D02_1093029193",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 9429.5,
+        "y": -15923.33,
+        "z": 1202.99
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 9429.5,
+          "y": -15923.33,
+          "z": 1202.99
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1883.09,
+        "y": 0.0,
+        "width": 36.91,
+        "height": 28.13,
+        "min_depth_cm": 11607.99
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3F77D02_1093033197",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 7985.03,
+        "y": -14669.45,
+        "z": 1202.99
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 7985.03,
+          "y": -14669.45,
+          "z": 1202.99
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1744.17,
+        "y": 5.99,
+        "width": 43.77,
+        "height": 40.23,
+        "min_depth_cm": 11421.16
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3F77D02_1093032196",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 8206.44,
+        "y": -15113.94,
+        "z": 1202.99
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 8206.44,
+          "y": -15113.94,
+          "z": 1202.99
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1768.39,
+        "y": 0.0,
+        "width": 43.63,
+        "height": 32.69,
+        "min_depth_cm": 11560.37
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3F77D02_1093031195",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 8547.02,
+        "y": -15475.33,
+        "z": 1202.99
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 8547.02,
+          "y": -15475.33,
+          "z": 1202.99
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1801.66,
+        "y": 0.0,
+        "width": 43.89,
+        "height": 25.73,
+        "min_depth_cm": 11633.24
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3F77D02_1093030194",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 8959.31,
+        "y": -15765.09,
+        "z": 1202.99
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 8959.31,
+          "y": -15765.09,
+          "z": 1202.99
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1840.28,
+        "y": 0.0,
+        "width": 44.41,
+        "height": 23.51,
+        "min_depth_cm": 11656.71
+      }
+    },
+    {
+      "name": "BP_DevCom_C_UAID_025041000001997D02_1873177428",
+      "class": "BP_DevCom_C",
+      "world_position": {
+        "x": 9202.91,
+        "y": -13633.67,
+        "z": 1199.93
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 9202.91,
+          "y": -13633.67,
+          "z": 1199.93
+        },
+        "extent": {
+          "x": 348.18,
+          "y": 348.18,
+          "z": 250.0
+        }
+      },
+      "bbox_2d": {
+        "x": 1816.01,
+        "y": 58.82,
+        "width": 103.99,
+        "height": 92.74,
+        "min_depth_cm": 10421.3
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219575660",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 4677.35,
+        "y": -7763.94,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4677.35,
+          "y": -7763.94,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1269.96,
+        "y": 315.48,
+        "width": 41.88,
+        "height": 45.07,
+        "min_depth_cm": 9841.14
+      }
+    },
+    {
+      "name": "BP_DevCom_C_UAID_F4A475FF15A3177C02_1338456488",
+      "class": "BP_DevCom_C",
+      "world_position": {
+        "x": 7464.41,
+        "y": -8966.09,
+        "z": 363.91
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 7464.41,
+          "y": -8966.09,
+          "z": 363.91
+        },
+        "extent": {
+          "x": 108.9,
+          "y": 108.9,
+          "z": 77.3
+        }
+      },
+      "bbox_2d": {
+        "x": 1565.6,
+        "y": 355.32,
+        "width": 34.34,
+        "height": 31.88,
+        "min_depth_cm": 9847.62
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219579662",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 4306.22,
+        "y": -7623.43,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4306.22,
+          "y": -7623.43,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1232.04,
+        "y": 311.03,
+        "width": 41.05,
+        "height": 44.95,
+        "min_depth_cm": 9872.75
+      }
+    },
+    {
+      "name": "BP_DevCom_C_UAID_025041000001FA7D02_1630114497",
+      "class": "BP_DevCom_C",
+      "world_position": {
+        "x": 5648.36,
+        "y": -8353.52,
+        "z": 541.46
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 5648.36,
+          "y": -8353.52,
+          "z": 541.46
+        },
+        "extent": {
+          "x": 332.23,
+          "y": 332.23,
+          "z": 250.0
+        }
+      },
+      "bbox_2d": {
+        "x": 1351.06,
+        "y": 283.31,
+        "width": 100.37,
+        "height": 98.6,
+        "min_depth_cm": 9578.93
+      }
+    },
+    {
+      "name": "BP_Coin_C_UAID_F4A475FF15A3C07D02_1219577661",
+      "class": "BP_Coin_C",
+      "world_position": {
+        "x": 4484.75,
+        "y": -7713.47,
+        "z": 489.22
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 4484.75,
+          "y": -7713.47,
+          "z": 489.22
+        },
+        "extent": {
+          "x": 137.26,
+          "y": 137.26,
+          "z": 137.26
+        }
+      },
+      "bbox_2d": {
+        "x": 1251.03,
+        "y": 311.78,
+        "width": 41.42,
+        "height": 44.97,
+        "min_depth_cm": 9867.39
+      }
+    }
+  ]
+}

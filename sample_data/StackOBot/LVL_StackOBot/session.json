@@ -1,0 +1,20 @@
+{
+  "session_id": "1f50d2ff-9b5e-4b8f-9315-5c8466ba93b7",
+  "scene_name": "LVL_StackOBot",
+  "project_name": "StackOBot",
+  "captured_at": "2026-04-24T12:55:34.024165+00:00",
+  "frame_count": 5,
+  "config": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fov_degrees": 90.0
+  },
+  "modalities": [
+    "rgb",
+    "depth",
+    "normal",
+    "base_color"
+  ]
+}

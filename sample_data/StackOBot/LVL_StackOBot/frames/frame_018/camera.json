@@ -1,0 +1,23 @@
+{
+  "frame_index": 18,
+  "position": {
+    "x": 6944.63,
+    "y": -7389.54,
+    "z": 7067.94
+  },
+  "rotation_euler": {
+    "pitch": -47.24,
+    "yaw": 135.14,
+    "roll": 0.0
+  },
+  "rotation_quaternion": {
+    "x": -0.152877,
+    "y": 0.846907,
+    "z": 0.370357,
+    "w": 0.349589
+  },
+  "fov": 90.0,
+  "image_width": 1920,
+  "image_height": 1080,
+  "camera_convention": "ue5_x_fwd_y_right_z_up"
+}

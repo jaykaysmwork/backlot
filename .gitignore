@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+.next/
+out/
+
+# Capture output (generated at runtime — sample_data/ is tracked)
+capture_output/*
+!capture_output/.gitkeep
+capture_agent.*.log
+
+# EXR source files
+*.exr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Claude Code
+.claude/
+
+# Editor menu config (user-specific)
+ue5_capture/editor_config.json
+
+# Secrets / local
+.env
+.env.local
+
+# Personal work log — not for repo
+WORKLOG.md
+
+# Presentation deck — local-only, not for repo
+presentation/

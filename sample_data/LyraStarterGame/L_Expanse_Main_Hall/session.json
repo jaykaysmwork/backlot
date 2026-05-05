@@ -1,0 +1,20 @@
+{
+  "session_id": "fe5316be-a751-4cec-a81c-f173005e9998",
+  "scene_name": "L_Expanse_Main_Hall",
+  "project_name": "LyraStarterGame",
+  "captured_at": "2026-04-24T13:13:19.501179+00:00",
+  "frame_count": 5,
+  "config": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fov_degrees": 90.0
+  },
+  "modalities": [
+    "rgb",
+    "depth",
+    "normal",
+    "base_color"
+  ]
+}

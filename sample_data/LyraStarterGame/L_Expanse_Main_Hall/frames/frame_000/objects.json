@@ -1,0 +1,62 @@
+{
+  "frame_index": 0,
+  "actor_count": 2,
+  "actors": [
+    {
+      "name": "B_WeaponSpawner_C_UAID_E04F43E61E7295F700_1198687883",
+      "class": "B_WeaponSpawner_C",
+      "world_position": {
+        "x": 1472.0,
+        "y": -6.75,
+        "z": -1218.11
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 1471.95,
+          "y": -6.75,
+          "z": -1218.61
+        },
+        "extent": {
+          "x": 91.19,
+          "y": 91.14,
+          "z": 80.5
+        }
+      },
+      "bbox_2d": {
+        "x": 867.06,
+        "y": 273.03,
+        "width": 127.06,
+        "height": 137.69,
+        "min_depth_cm": 1377.23
+      }
+    },
+    {
+      "name": "B_Launcher_Up_C_UAID_E04F43E623E0E3CC00_1655370205",
+      "class": "B_Launcher_Up_C",
+      "world_position": {
+        "x": 2087.28,
+        "y": 0.0,
+        "z": -1300.0
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 2087.28,
+          "y": 0.0,
+          "z": -1216.85
+        },
+        "extent": {
+          "x": 85.0,
+          "y": 85.0,
+          "z": 85.0
+        }
+      },
+      "bbox_2d": {
+        "x": 899.54,
+        "y": 196.51,
+        "width": 85.34,
+        "height": 100.91,
+        "min_depth_cm": 1912.36
+      }
+    }
+  ]
+}

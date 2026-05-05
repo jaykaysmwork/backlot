@@ -1,0 +1,95 @@
+# Full demo stack for the Backlot take-home.
+#
+#   docker compose up -d              # Postgres + FastAPI + Next.js
+#   docker compose run --rm ingest    # Load data into Postgres
+#   docker compose down               # Stop (keeps the postgres volume)
+#   docker compose down -v            # Stop + wipe the DB volume
+#
+# Data auto-detection:
+#   capture_output/ exists → uses full captures
+#   capture_output/ absent → falls back to sample_data/ (included in repo)
+#
+# The frontend talks to the backend over two hops:
+#   - server-side fetches (RSC) use the docker-internal hostname `backend`
+#   - browser-side image URLs use localhost:8000 (the published port)
+# Both are injected as env vars; see frontend/lib/api.ts.
+
+services:
+  postgres:
+    image: postgis/postgis:16-3.5
+    platform: linux/amd64
+    container_name: backlot-postgres
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: backlot
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U admin -d backlot"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: backlot-backend
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgresql+psycopg://admin:password@postgres:5432/backlot
+    volumes:
+      - ./sample_data:/app/sample_data:ro
+      - ./capture_output:/app/capture_output
+      # Bind-mount the source so `--reload` picks up edits without rebuild.
+      - ./backend:/app/backend
+      - ./ingestion:/app/ingestion
+    command: ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: backlot-frontend
+    depends_on:
+      - backend
+    environment:
+      # Used by the browser — the user types localhost:3000, so images and
+      # client-side fetches also go to localhost:8000 (the published port).
+      NEXT_PUBLIC_API_BASE: http://localhost:8000
+      # Used by Next.js server-side data fetching (RSC), which runs inside
+      # the Docker network and must use the service hostname.
+      API_BASE_SERVER: http://backend:8000
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    ports:
+      - "3000:3000"
+
+  # Run once to load data into Postgres.
+  # Entrypoint auto-detects capture_output/ vs sample_data/.
+  ingest:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgresql+psycopg://admin:password@postgres:5432/backlot
+    volumes:
+      - ./sample_data:/app/sample_data:ro
+      - ./capture_output:/app/capture_output
+    profiles: ["tools"]
+    command: ["python", "-m", "ingestion.ingest"]
+
+volumes:
+  postgres_data:

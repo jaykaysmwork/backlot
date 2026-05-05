@@ -1,0 +1,174 @@
+{
+  "frame_index": 24,
+  "actor_count": 6,
+  "actors": [
+    {
+      "name": "B_DoorPortal_C_UAID_E04F43E623E0F4BF00_2060237591",
+      "class": "B_Teleport_C",
+      "world_position": {
+        "x": -0.0,
+        "y": 1705.0,
+        "z": -807.15
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -0.0,
+          "y": 1680.93,
+          "z": -463.89
+        },
+        "extent": {
+          "x": 168.0,
+          "y": 40.0,
+          "z": 368.0
+        }
+      },
+      "bbox_2d": {
+        "x": 1362.46,
+        "y": 426.98,
+        "width": 371.22,
+        "height": 534.31,
+        "min_depth_cm": 1192.92
+      }
+    },
+    {
+      "name": "B_WeaponSpawner_C_UAID_E04F43E61E7295F700_1110839880",
+      "class": "B_WeaponSpawner_C",
+      "world_position": {
+        "x": 12.11,
+        "y": 1634.64,
+        "z": 83.33
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 12.06,
+          "y": 1634.64,
+          "z": 82.84
+        },
+        "extent": {
+          "x": 91.19,
+          "y": 91.14,
+          "z": 80.5
+        }
+      },
+      "bbox_2d": {
+        "x": 1372.99,
+        "y": 264.65,
+        "width": 148.33,
+        "height": 164.99,
+        "min_depth_cm": 1435.58
+      }
+    },
+    {
+      "name": "B_Launcher_Teleport_Local_C_UAID_E04F43E623E0E4CC00_1219678386",
+      "class": "B_Teleport_C",
+      "world_position": {
+        "x": 2770.57,
+        "y": 1866.4,
+        "z": -530.23
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 2758.78,
+          "y": 1854.61,
+          "z": -457.75
+        },
+        "extent": {
+          "x": 101.82,
+          "y": 101.82,
+          "z": 152.0
+        }
+      },
+      "bbox_2d": {
+        "x": 403.11,
+        "y": 723.86,
+        "width": 123.16,
+        "height": 113.91,
+        "min_depth_cm": 2681.55
+      }
+    },
+    {
+      "name": "B_Launcher_Teleport_Local_C_UAID_E04F43E623E0E4CC00_1239776387",
+      "class": "B_Teleport_C",
+      "world_position": {
+        "x": -2.0,
+        "y": 1960.0,
+        "z": 609.09
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -2.0,
+          "y": 1939.78,
+          "z": 669.21
+        },
+        "extent": {
+          "x": 136.0,
+          "y": 48.0,
+          "z": 120.0
+        }
+      },
+      "bbox_2d": {
+        "x": 1339.49,
+        "y": 86.4,
+        "width": 164.49,
+        "height": 165.32,
+        "min_depth_cm": 1876.59
+      }
+    },
+    {
+      "name": "B_Launcher_Push_C_UAID_E04F43E623E07BCC00_1543084115",
+      "class": "B_Launcher_Push_C",
+      "world_position": {
+        "x": 1338.99,
+        "y": 601.35,
+        "z": -210.0
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": 1339.0,
+          "y": 601.35,
+          "z": -147.64
+        },
+        "extent": {
+          "x": 83.44,
+          "y": 72.75,
+          "z": 63.75
+        }
+      },
+      "bbox_2d": {
+        "x": 206.21,
+        "y": 326.36,
+        "width": 205.54,
+        "height": 159.09,
+        "min_depth_cm": 1159.22
+      }
+    },
+    {
+      "name": "B_AbilitySpawner_C_UAID_E04F43E61E7294F700_1104082705",
+      "class": "B_AbilitySpawner_C",
+      "world_position": {
+        "x": -0.0,
+        "y": 1086.0,
+        "z": 365.54
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -0.05,
+          "y": 1086.0,
+          "z": 365.05
+        },
+        "extent": {
+          "x": 91.19,
+          "y": 91.14,
+          "z": 80.5
+        }
+      },
+      "bbox_2d": {
+        "x": 1287.9,
+        "y": 0.0,
+        "width": 192.43,
+        "height": 86.02,
+        "min_depth_cm": 1076.57
+      }
+    }
+  ]
+}

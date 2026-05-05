@@ -1,0 +1,21 @@
+# Backlot Capture — Python dependencies
+#
+# Install:
+#     python3 -m venv .venv
+#     source .venv/bin/activate
+#     pip install -r requirements.txt
+
+# Post-capture image processing (convert_depth.py, refine_seg.py)
+Pillow>=10.0
+numpy>=2.0
+opencv-python>=4.8
+
+# Ingestion + DB
+SQLAlchemy>=2.0.44
+psycopg[binary]==3.3.1
+GeoAlchemy2>=0.15
+
+# FastAPI backend
+fastapi==0.118.0
+uvicorn[standard]==0.34.0
+pydantic>=2.11.0

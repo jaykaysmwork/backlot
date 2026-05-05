@@ -1,0 +1,9 @@
+.git
+.venv
+frontend
+ue5_capture/__pycache__
+**/__pycache__
+*.pyc
+.DS_Store
+WORKLOG.md
+capture_output

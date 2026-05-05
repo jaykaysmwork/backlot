@@ -1,0 +1,62 @@
+{
+  "frame_index": 6,
+  "actor_count": 2,
+  "actors": [
+    {
+      "name": "B_DoorPortal_C_UAID_E04F43E623E0F4BF00_2060237591",
+      "class": "B_Teleport_C",
+      "world_position": {
+        "x": -0.0,
+        "y": 1705.0,
+        "z": -807.15
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -0.0,
+          "y": 1680.93,
+          "z": -463.89
+        },
+        "extent": {
+          "x": 168.0,
+          "y": 40.0,
+          "z": 368.0
+        }
+      },
+      "bbox_2d": {
+        "x": 529.02,
+        "y": 0.0,
+        "width": 285.53,
+        "height": 298.47,
+        "min_depth_cm": 1246.61
+      }
+    },
+    {
+      "name": "B_Launcher_Up_C_UAID_E04F43E623E079CC00_1865861669",
+      "class": "B_Launcher_Up_C",
+      "world_position": {
+        "x": -2645.77,
+        "y": 1829.0,
+        "z": -561.63
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -2645.77,
+          "y": 1829.0,
+          "z": -478.48
+        },
+        "extent": {
+          "x": 85.0,
+          "y": 85.0,
+          "z": 85.0
+        }
+      },
+      "bbox_2d": {
+        "x": 1791.39,
+        "y": 69.9,
+        "width": 128.61,
+        "height": 90.22,
+        "min_depth_cm": 2106.85
+      }
+    }
+  ]
+}

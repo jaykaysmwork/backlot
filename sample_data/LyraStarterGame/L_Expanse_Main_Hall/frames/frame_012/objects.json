@@ -1,0 +1,202 @@
+{
+  "frame_index": 12,
+  "actor_count": 7,
+  "actors": [
+    {
+      "name": "B_Launcher_Push_C_UAID_E04F43E623E079CC00_1775815667",
+      "class": "B_Launcher_Push_C",
+      "world_position": {
+        "x": -1338.99,
+        "y": -601.35,
+        "z": -210.0
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -1339.0,
+          "y": -601.35,
+          "z": -147.64
+        },
+        "extent": {
+          "x": 83.44,
+          "y": 72.75,
+          "z": 63.75
+        }
+      },
+      "bbox_2d": {
+        "x": 805.91,
+        "y": 0.0,
+        "width": 136.56,
+        "height": 124.2,
+        "min_depth_cm": 1321.8
+      }
+    },
+    {
+      "name": "B_Launcher_Up_C_UAID_E04F43E623E0E3CC00_1744976206",
+      "class": "B_Launcher_Up_C",
+      "world_position": {
+        "x": -2087.28,
+        "y": 0.0,
+        "z": -1300.0
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -2087.28,
+          "y": 0.0,
+          "z": -1216.85
+        },
+        "extent": {
+          "x": 85.0,
+          "y": 85.0,
+          "z": 85.0
+        }
+      },
+      "bbox_2d": {
+        "x": 381.34,
+        "y": 643.33,
+        "width": 107.47,
+        "height": 115.88,
+        "min_depth_cm": 1753.32
+      }
+    },
+    {
+      "name": "B_Launcher_Teleport_Local_C_UAID_E04F43E623E0E3CC00_1859901208",
+      "class": "B_Teleport_C",
+      "world_position": {
+        "x": -2750.47,
+        "y": -1865.28,
+        "z": -530.23
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -2743.67,
+          "y": -1858.47,
+          "z": -456.38
+        },
+        "extent": {
+          "x": 101.82,
+          "y": 101.82,
+          "z": 152.0
+        }
+      },
+      "bbox_2d": {
+        "x": 992.6,
+        "y": 319.74,
+        "width": 83.19,
+        "height": 96.6,
+        "min_depth_cm": 3149.45
+      }
+    },
+    {
+      "name": "B_WeaponSpawner_C_UAID_E04F43E61E7295F700_1268489885",
+      "class": "B_WeaponSpawner_C",
+      "world_position": {
+        "x": -1472.0,
+        "y": -0.0,
+        "z": -1218.11
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -1472.05,
+          "y": -0.0,
+          "z": -1218.61
+        },
+        "extent": {
+          "x": 91.19,
+          "y": 91.14,
+          "z": 80.5
+        }
+      },
+      "bbox_2d": {
+        "x": 367.09,
+        "y": 715.19,
+        "width": 161.99,
+        "height": 175.97,
+        "min_depth_cm": 1215.34
+      }
+    },
+    {
+      "name": "B_AbilitySpawner_C_UAID_E04F43E61E7294F700_1169571706",
+      "class": "B_AbilitySpawner_C",
+      "world_position": {
+        "x": -5493.6,
+        "y": 0.1,
+        "z": -381.0
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -5493.66,
+          "y": 0.1,
+          "z": -381.49
+        },
+        "extent": {
+          "x": 91.19,
+          "y": 91.14,
+          "z": 80.5
+        }
+      },
+      "bbox_2d": {
+        "x": 383.22,
+        "y": 361.2,
+        "width": 45.06,
+        "height": 36.84,
+        "min_depth_cm": 4605.34
+      }
+    },
+    {
+      "name": "B_WeaponSpawner_C_UAID_E04F43E61E7295F700_1293358886",
+      "class": "B_WeaponSpawner_C",
+      "world_position": {
+        "x": -4586.51,
+        "y": 1008.42,
+        "z": -380.41
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -4586.57,
+          "y": 1008.42,
+          "z": -380.91
+        },
+        "extent": {
+          "x": 91.19,
+          "y": 91.14,
+          "z": 80.5
+        }
+      },
+      "bbox_2d": {
+        "x": 39.19,
+        "y": 325.44,
+        "width": 85.27,
+        "height": 52.67,
+        "min_depth_cm": 3320.16
+      }
+    },
+    {
+      "name": "GroupActor_UAID_E04F43E623D4E2F300_2017190235",
+      "class": "GroupActor",
+      "world_position": {
+        "x": -4109.5,
+        "y": 1.5,
+        "z": 234.0
+      },
+      "bounds_3d": {
+        "origin": {
+          "x": -4109.5,
+          "y": 1.5,
+          "z": 234.0
+        },
+        "extent": {
+          "x": 850.0,
+          "y": 459.3,
+          "z": 5.0
+        }
+      },
+      "bbox_2d": {
+        "x": 195.07,
+        "y": 79.39,
+        "width": 373.37,
+        "height": 163.8,
+        "min_depth_cm": 2525.52
+      }
+    }
+  ]
+}
