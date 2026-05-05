@@ -257,5 +257,3 @@ docker compose up -d postgres
 uvicorn backend.main:app --reload
 cd frontend && npm install && npm run dev
 ```
-
-Architecture deep-dive in [`PRESENTATION.md`](PRESENTATION.md).
